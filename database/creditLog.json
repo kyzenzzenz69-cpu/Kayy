@@ -782,5 +782,19 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-09-20T13:19:47.920Z"
+  },
+  {
+    "userId": 8768708401,
+    "type": "earn",
+    "amount": 67,
+    "reason": "Diberikan owner",
+    "at": "2026-09-20T13:24:44.331Z"
+  },
+  {
+    "userId": 8306752132,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-09-20T14:09:19.209Z"
   }
 ]
