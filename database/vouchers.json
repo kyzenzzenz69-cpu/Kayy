@@ -2,7 +2,9 @@
   "WIZZ-14C10677": {
     "amount": 24,
     "maxUses": 24,
-    "usedBy": [],
+    "usedBy": [
+      8667828886
+    ],
     "createdAt": "2026-09-20T10:28:15.172Z"
   }
 }
