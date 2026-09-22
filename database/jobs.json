@@ -1316,5 +1316,16 @@
     "status": "success",
     "created_at": "2026-09-20T10:21:26.247Z",
     "completed_at": "2026-09-20T10:30:58.414Z"
+  },
+  "mucd0s6ehoyls": {
+    "job_id": "mucd0s6ehoyls",
+    "release_id": 393530738,
+    "release_tag": "build-mucd0s6ehoyls",
+    "run_id": 35700395525,
+    "user_id": 8950326145,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-09-22T07:35:52.572Z"
   }
 }
