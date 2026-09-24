@@ -1364,5 +1364,16 @@
     "status": "failed",
     "created_at": "2026-09-24T07:09:26.710Z",
     "completed_at": "2026-09-24T07:13:14.943Z"
+  },
+  "muf7a3mvi7zmz": {
+    "job_id": "muf7a3mvi7zmz",
+    "release_id": 395429060,
+    "release_tag": "build-muf7a3mvi7zmz",
+    "run_id": 35968910463,
+    "user_id": 8950326145,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-09-24T07:18:34.329Z"
   }
 }
