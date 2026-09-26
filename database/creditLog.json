@@ -887,5 +887,26 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-09-24T05:39:50.347Z"
+  },
+  {
+    "userId": 7089592151,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-09-26T10:10:32.384Z"
+  },
+  {
+    "userId": 7089592151,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-09-26T10:13:40.952Z"
+  },
+  {
+    "userId": 8834303418,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-09-26T10:13:51.199Z"
   }
 ]
